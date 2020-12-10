@@ -1,0 +1,5 @@
+C:\Users\Ihor I Great\source\repos\IIG.FileWorker\IIG.FileWorker\bin\Debug\IIG.FileWorker.dll
+C:\Users\Ihor I Great\source\repos\IIG.FileWorker\IIG.FileWorker\bin\Debug\IIG.FileWorker.pdb
+C:\Users\Ihor I Great\source\repos\IIG.FileWorker\IIG.FileWorker\obj\Debug\IIG.FileWorker.csproj.CoreCompileInputs.cache
+C:\Users\Ihor I Great\source\repos\IIG.FileWorker\IIG.FileWorker\obj\Debug\IIG.FileWorker.dll
+C:\Users\Ihor I Great\source\repos\IIG.FileWorker\IIG.FileWorker\obj\Debug\IIG.FileWorker.pdb

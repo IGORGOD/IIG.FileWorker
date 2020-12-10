@@ -1,0 +1,13 @@
+C:\Users\Ihor I Great\source\repos\IIG.FileWorker\IIG.FileWorker\bin\Release\IIG.FileWorker.xml
+C:\Users\Ihor I Great\source\repos\IIG.FileWorker\IIG.FileWorker\bin\Release\IIG.FileWorker.dll
+C:\Users\Ihor I Great\source\repos\IIG.FileWorker\IIG.FileWorker\bin\Release\IIG.FileWorker.pdb
+C:\Users\Ihor I Great\source\repos\IIG.FileWorker\IIG.FileWorker\obj\Release\IIG.FileWorker.csproj.CoreCompileInputs.cache
+C:\Users\Ihor I Great\source\repos\IIG.FileWorker\IIG.FileWorker\obj\Release\IIG.FileWorker.dll
+C:\Users\Ihor I Great\source\repos\IIG.FileWorker\IIG.FileWorker\obj\Release\IIG.FileWorker.pdb
+D:\Projects\VS\IIG.FileWorker\IIG.FileWorker\bin\Release\IIG.FileWorker.xml
+D:\Projects\VS\IIG.FileWorker\IIG.FileWorker\bin\Release\IIG.FileWorker.dll
+D:\Projects\VS\IIG.FileWorker\IIG.FileWorker\bin\Release\IIG.FileWorker.pdb
+D:\Projects\VS\IIG.FileWorker\IIG.FileWorker\obj\Release\IIG.FileWorker.csprojAssemblyReference.cache
+D:\Projects\VS\IIG.FileWorker\IIG.FileWorker\obj\Release\IIG.FileWorker.csproj.CoreCompileInputs.cache
+D:\Projects\VS\IIG.FileWorker\IIG.FileWorker\obj\Release\IIG.FileWorker.dll
+D:\Projects\VS\IIG.FileWorker\IIG.FileWorker\obj\Release\IIG.FileWorker.pdb
