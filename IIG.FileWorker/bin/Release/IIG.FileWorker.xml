@@ -4,6 +4,11 @@
         <name>IIG.FileWorker</name>
     </assembly>
     <members>
+        <member name="T:IIG.FileWorker.BaseFileWorker">
+            <summary>
+                Class for Most Common Interactions w/ Files
+            </summary>
+        </member>
         <member name="M:IIG.FileWorker.BaseFileWorker.ReadLines(System.String)">
             <summary>
                 Reads lines from given path

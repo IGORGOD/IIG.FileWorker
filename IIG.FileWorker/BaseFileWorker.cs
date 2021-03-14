@@ -3,6 +3,9 @@ using System.Threading;
 
 namespace IIG.FileWorker
 {
+    /// <summary>
+    ///     Class for Most Common Interactions w/ Files
+    /// </summary>
     public class BaseFileWorker
     {
         /// <summary>
@@ -105,7 +108,7 @@ namespace IIG.FileWorker
         /// <returns>Full Path if success, otherwise - <see langword="null" /></returns>
         public static string GetFullPath(string path)
         {
-            return File.Exists(path)
+            return !string.IsNullOrEmpty(path) && File.Exists(path)
                 ? new FileInfo(path).FullName
                 : null;
         }
@@ -117,7 +120,7 @@ namespace IIG.FileWorker
         /// <returns>File Name if success, otherwise - <see langword="null" /></returns>
         public static string GetFileName(string path)
         {
-            return File.Exists(path)
+            return !string.IsNullOrEmpty(path) && File.Exists(path)
                 ? new FileInfo(path).Name
                 : null;
         }
@@ -129,7 +132,7 @@ namespace IIG.FileWorker
         /// <returns>Directory Path if success, otherwise - <see langword="null" /></returns>
         public static string GetPath(string path)
         {
-            return File.Exists(path)
+            return !string.IsNullOrEmpty(path) && File.Exists(path)
                 ? new FileInfo(path).Directory?.FullName
                 : null;
         }
